@@ -28,7 +28,7 @@ sudo npm install --global http-server
 ~~~
 
 
-3. Arrancar el proyecto con 'http-server' en la carpeta raíz, debe aparece:
+4. Arrancar el proyecto con 'http-server' en la carpeta raíz, debe aparece:
 
 Starting up http-server, serving .
 
